@@ -4,7 +4,7 @@ helm:
   values:
     env:
       SHOW_VERSION: true
-      COW_COLOR: "yellow"
+      COW_COLOR: "red"
     ingress:
       hosts:
         - host: sslip.io
